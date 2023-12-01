@@ -6,7 +6,7 @@ package com.mycompany.pruebakevin;
 
 /**
  *
- * @author Bryan
+ * @author kevin
  */
 import java.util.Scanner;
 
