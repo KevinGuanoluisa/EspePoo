@@ -6,7 +6,8 @@ package com.mycompany.pruebakevin;
 
 /**
  *
- * @author Bryan
+ * @author kevin
+
  */
 public class Pasajero extends Persona{
     String numID;
