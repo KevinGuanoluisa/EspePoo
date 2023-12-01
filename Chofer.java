@@ -6,7 +6,7 @@ package com.mycompany.pruebakevin;
 
 /**
  *
- * @author Bryan
+ * @author kevin
  */
 public class Chofer extends Persona{
     
